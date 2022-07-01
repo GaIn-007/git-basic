@@ -1,3 +1,4 @@
 git add command adds a change in the working directory to the staging area
 git commit command takes all changes in the staging area, wraps them together and puts them in your local repository
 git push command sends those changes to your remote repository
+newline created
